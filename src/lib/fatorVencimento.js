@@ -9,5 +9,5 @@ module.exports = (dias) => {
     dataBase.setFullYear(1997,9,7);
     dataBoleto.setTime(dataBase.getTime() + (1000 * 60 * 60 * 24 * dias));
 
-    return(dataBoleto);
+    return dataBoleto;
 }
