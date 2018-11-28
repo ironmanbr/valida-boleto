@@ -2,7 +2,7 @@
 
 Projeto tem o objetivo de validar se o código digitável do boleto é válido.
 
-__ Considerações __
+**Considerações**
 
 Não foquei na construção da estrutura da API por esta utilizando o express para rotear e gerenciar entrada e saída de dados. O objetivo principal foi criar um serviço que seja capaz de validar adequadamente o código digitável do boleto, de acordo com a solicitação.
 
