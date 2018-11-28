@@ -4,12 +4,12 @@ Projeto tem o objetivo de validar se o código digitável do boleto é válido.
 
 **Considerações**
 
-Não foquei na construção da estrutura da API por esta utilizando o express para rotear e gerenciar entrada e saída de dados. O objetivo principal foi criar um serviço que seja capaz de validar adequadamente o código digitável do boleto, de acordo com a solicitação.
+Não foquei na construção da estrutura da API por estar utilizando o express para rotear e gerenciar entrada e saída de dados. O objetivo principal foi criar um serviço que seja capaz de validar adequadamente o código digitável do boleto, de acordo com a solicitação.
 
 
 ### Instalação e utilização
 
-Após clone do projeto entre na pasta e execute os seguintes comandos:
+Após clone do projeto, entre na pasta e execute os seguintes comandos:
 
 ```bash
 npm install
